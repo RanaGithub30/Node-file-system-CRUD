@@ -1,0 +1,21 @@
+{
+  "name": "node-file-system-crud",
+  "version": "1.0.0",
+  "description": "crud operation using node file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "express"
+  ],
+  "author": "rana saha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,7 @@
+1) First install node using --> npm init
+2) Install all dependencies using this command --> npm install express nodemon
+
+
+
+
+// ref. site -->  https://nodejs.dev/en/learn/working-with-folders-in-nodejs/     &     Youtube
